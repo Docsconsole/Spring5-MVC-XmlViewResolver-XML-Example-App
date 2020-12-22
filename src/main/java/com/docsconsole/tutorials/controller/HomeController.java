@@ -1,4 +1,4 @@
-package com.docsconsole.tutorials.springmvc5.controller;
+package com.docsconsole.tutorials.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
